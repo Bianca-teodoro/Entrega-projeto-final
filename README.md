@@ -1,5 +1,5 @@
 # Entrega-projeto-final
-Entrega do projeto final do curso Analista de Dados da Escola Britânica de Artes Criativas e Tecnologia, elaborada por Bianca Teodoro, sobre as verbas destinadas ao programa social Bolsa Família no primeiro trimestre de 2021.
+Entrega do projeto final do curso Analista de Dados da Escola Britânica de Artes Criativas e Tecnologia, elaborado por Bianca Teodoro, sobre as verbas destinadas ao programa social Bolsa Família no primeiro trimestre de 2021.
 
 Neste diretório podem ser encontradas bases de dados "janeiro", "fevereiro" e "marco" em formato .csv, obtidas no Portal da Transparência. 
 
